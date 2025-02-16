@@ -1,11 +1,11 @@
-## Telephone-Package
+# Telephone-Package
 
 
-#Overview
+## Overview
 
 This project implements a simple telephone package in JavaScript, providing basic phone management functionality. It supports adding, removing, and dialing phone numbers while also incorporating an observer pattern to notify subscribers when a number is dialed.
 
-#Features
+## Features
 
 1. Add Phone Number: Store a new phone number.
 
